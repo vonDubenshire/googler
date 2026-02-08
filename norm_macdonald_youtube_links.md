@@ -22,6 +22,5 @@
 
 ## Archive.org
 
-- [Norm Macdonald Live (Video and Audio)](https://archive.org/details/Norm_Macdonald_Live)
 - [Norm Macdonald Archive 1 (Various Clips)](https://archive.org/download/NormMacDonaldArchive1)
 - [Norm Macdonald Live (Audio Podcast)](https://fourble.co.uk/podcast/normmacdonal)
